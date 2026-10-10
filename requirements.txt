@@ -1,7 +1,0 @@
-Flask==3.0.3
-pyTelegramBotAPI==4.22.0
-google-genai==0.1.1
-edge-tts==6.1.12
-moviepy==1.0.3
-requests==2.32.3
-gunicorn==23.0.0
